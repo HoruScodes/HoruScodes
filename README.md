@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rahul Pipaliya</h1>
 <h3 align="center">I am Hobbyist Tech Geek and a web developer.</h3>
 
-- 🔭 I’m currently working on [chef help](https://github.com/HoruScodes/chef-helper)
+- 🔭 I’m currently working on [my new portfolio](https://github.com/HoruScodes/rahulpipaliya-tailwind)
 
-- 🌱 I’m currently learning **Redux , Tailwind & DSA**
+- 🌱 I’m currently learning **NextJs , Tailwind & DSA**
 
 - 👨‍💻 All of my projects are available at [https://rahulpipaliya.com/](https://rahulpipaliya.com/)
 
