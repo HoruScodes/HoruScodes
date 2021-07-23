@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [chef help](https://github.com/HoruScodes/chef-helper)
 
-- 🌱 I’m currently learning **Redux , DSA**
+- 🌱 I’m currently learning **Redux , Tailwind & DSA**
 
 - 👨‍💻 All of my projects are available at [https://rahulpipaliya.com/](https://rahulpipaliya.com/)
 
