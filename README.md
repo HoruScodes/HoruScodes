@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NextJs , Tailwind & DSA**
 
-- 👨‍💻 All of my projects are available at [https://rahulpipaliya.com/](https://rahulpipaliya.com/)
+- 👨‍💻 All of my projects are available at [https://rahulp.io/](https://rahulp.io/)
 
 - 💬 Ask me about **react , node , angular**
 
