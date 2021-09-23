@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **pipaliya1997@gmail.com**
 
-- 📄 Know about my experiences [https://www.rahulpipaliya.com/resume.pdf](https://www.rahulpipaliya.com/resume.pdf)
+- 📄 Know about my experiences [https://www.rahulp.io/timeline](https://www.rahulp.io/timeline)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
